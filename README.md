@@ -5,3 +5,4 @@ Programmation du jeu de Moulin avec une IA en utilisant le langage C et la bibli
 ![joueurs](https://user-images.githubusercontent.com/48438520/108236100-cf082900-7146-11eb-9b4b-7af893e429e0.png)
 ![reglesbouton](https://user-images.githubusercontent.com/48438520/108236858-a6346380-7147-11eb-9bfe-6b7a6cc77234.png)
 ![regles](https://user-images.githubusercontent.com/48438520/108237191-eeec1c80-7147-11eb-9431-4b3f66104d2b.png)
+![quitterbouton](https://user-images.githubusercontent.com/48438520/108237464-38d50280-7148-11eb-91a2-6def2ba4dd24.png)
